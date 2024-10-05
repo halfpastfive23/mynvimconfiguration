@@ -7,7 +7,7 @@ Hey, follow this step to get your neovim configure.
 5) Inside the lua directory you should create file name it init.lua and paste the code that I provided in this repo.
 6) As I assumed that you created a directory in the the lua with your name or whatever you prefer and now add lazy.lua file under that directory.
 7) Now, you should add two more directory under the same directory that you created lazy.lua file and call it core and plugins.
-8) Inside the core directory, create three lua files: init.lua, keymaps.lua, and options.lua
+8) Inside the core directory, create three lua files: initcore.lua, keymaps.lua, and options.lua
 9) For the plugins directory add these files:
    - alpha.lua,
    - auto-session.lua,
