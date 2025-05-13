@@ -38,3 +38,5 @@ Hey, follow this step to get your neovim configure.
   Add two files: lspconfig.lua and mason.lua.
 
   Now the fun part, just copy and paste all the files accordingly. Goodluck!!
+  Test
+  
